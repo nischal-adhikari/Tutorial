@@ -14,7 +14,7 @@ include 'includes/header.php';
 
 
 
-<h3 ><a href="addblog.php"> Creat New Blog</a></h3>
+<h3 ><a href="addblog.php"> Create New Blog</a></h3>
 
 <?php
 
@@ -42,7 +42,7 @@ foreach($data as $unitdata): ?>
 <p> 
 
 <?php
-       echo $unitdata ['detail']; ?>
+       echo $unitdata ['contenttt']; ?>
 
 </p>
 

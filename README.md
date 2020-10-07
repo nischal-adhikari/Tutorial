@@ -1,5 +1,26 @@
 # Tutorial
 
+1.DDL(Data Definition Language)
+create, drop, alter, rename
+
+
+2.DML(Data Manipulation Language)
+Select-->Retrive,
+Insert-->Create
+Update-->Update
+Delete
+Merge
+
+
+3.TCL(Transaction Control Language)
+commit
+rollback
+set transaction
+
+
+4.DCL(Data Control Language)
+read acces, R/W access , access, grant,revoke
+
 
 
 // insert query
